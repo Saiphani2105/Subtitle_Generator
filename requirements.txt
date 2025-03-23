@@ -1,0 +1,8 @@
+streamlit
+openai-whisper
+numpy
+pickle5
+chromadb
+sentence-transformers
+scikit-learn
+pydub

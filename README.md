@@ -25,7 +25,7 @@ With the increasing demand for accessibility in media content, generating accura
 ## 🧑‍💻 Installation
 1. Clone the repository:
     ```bash
-    [git clone](https://github.com/Saiphani2105/Subtitle_Generator.git)
+    https://github.com/Saiphani2105/Subtitle_Generator.git
     cd subtitle-generator-ai
     ```
 2. Create and activate a virtual environment:
